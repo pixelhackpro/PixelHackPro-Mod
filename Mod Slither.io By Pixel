@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         PixelHackPro_OfficialMod
+// @name         PixelHackPro_Mod_Slither_io
 // @namespace    MODDED_SLITHER_IO_
-// @version      0.6.9.10
-// @description  slither.io MOD - High score, Custom backgrounds, Zoom, Clock, and more!
-// @author       607ch00
+// @version      0.1
+// @description  slither.io mods ! Zoom,Changement skin, et plus encore !
+// @author       PixelhackPro
 // @match        http://slither.io/*
 // @noframes
 // @run-at       document-body
